@@ -8,6 +8,12 @@
 
 <br>
 
+[GPG Public Key](https://gist.github.com/dake0805/ba7802bcc92529c559ca413206ec7055)
+
+FingerPrint: `3C4C C045 DB95 52B2 1BC6  89E8 C6BF B842 162F FEB4`
+
+<br>
+
 https://zoewong.xyz
 
 <!--
