@@ -16,6 +16,10 @@ FingerPrint: `3C4C C045 DB95 52B2 1BC6  89E8 C6BF B842 162F FEB4`
 
 https://zoewong.xyz
 
+<br>
+
+<b>I dissent.</b>
+
 <!--
 **dake0805/dake0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
